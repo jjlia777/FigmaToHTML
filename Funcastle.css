@@ -1,0 +1,185 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color:rgb(241 231 195);
+}
+
+div {
+    box-sizing: border-box;
+
+position: absolute;
+width: 1535px;
+height: 105px;
+left: 0px;
+top: 0px;
+
+background: #B5D1AE;
+border-bottom: 1px solid rgba(64, 208, 239, 0.97);
+} 
+
+.logo {
+    position: absolute;
+width: 124px;
+height: 93px;
+left: 41px;
+top: 0px;
+}
+
+#home {
+    position: absolute;
+width: 63px;
+height: 35px;
+left: 857px;
+top: 40px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+background: rgba(255, 255, 255, 0.1);
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+#login {
+    position: absolute;
+width: 49px;
+height: 35px;
+left: 995px;
+top: 40px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+background-color: rgb(255, 255, 255, 0.1);
+padding: 0px 12px 0px 0px;
+}
+
+#cadastro {
+    position: absolute;
+width: 129px;
+height: 35px;
+left: 1106px;
+top: 40px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+background-color: rgb(255, 255, 255, 0.1);
+padding: 0px 15px;
+}
+
+.local {
+    position: absolute;
+width: 36px;
+height: 35px;
+left: 1290px;
+top: 40px;
+}
+
+.porco1 {
+    position: absolute;
+width: 476px;
+height: 326px;
+left: 856px;
+top: 201px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.54));
+border-radius: 63px;
+}
+
+.Diversão {
+
+position: absolute;
+width: 458px;
+height: 173px;
+left: 104px;
+top: 239px;
+
+font-family: 'Expletus Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 86px;
+text-align: center;
+border: 1px solid #000000;
+color: #000000;
+background-color: rgba(255, 255, 255, 0.1);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.texto1 {
+    position: absolute;
+width: 503px;
+height: 81px;
+left: 105px;
+top: 436px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+color: #000000;
+}
+
+.cube {
+    position: absolute;
+width: 472px;
+height: 326px;
+left: 105px;
+top: 616px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.59));
+border-radius: 63px;
+}
+
+.encontre {
+    position: absolute;
+width: 571px;
+height: 144px;
+left: 787px;
+top: 722px;
+
+font-family: 'Expletus Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 64px;
+display: flex;
+align-items: center;
+background-color: rgba(255, 255, 255, 0.1);
+color: #000000;
+border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+padding: 18px;
+}
+
+.brinquedoteca {
+    
+}
+
+
